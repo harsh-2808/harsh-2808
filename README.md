@@ -1,8 +1,8 @@
-![Header](./GitHub Header Image.png)
+[![MasterHead](./GitHub Header Image.png)
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 - 💬 Ask me about **C++, Java, MERN**
 
