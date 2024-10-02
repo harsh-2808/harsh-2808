@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-- 🌱 I’m currently learning **Android Development, Flutter**
+- 🌱 I’m currently learning **Flutter, Mobile App Development**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
