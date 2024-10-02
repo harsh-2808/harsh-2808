@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter, Mobile App Development**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **C++, Java, MERN**
 
