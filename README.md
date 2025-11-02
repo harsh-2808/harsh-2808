@@ -4,11 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-- 🌱 I’m currently learning **Flutter, Mobile App Development**
-
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **C++, Java, MERN**
+- 💬 Ask me about **C++, SpringBoot, React.js, Next.js**
 
 - 📫 How to reach me **imharshmishra.28@gmail.com**
 
